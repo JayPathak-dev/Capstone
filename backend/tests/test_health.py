@@ -8,8 +8,12 @@ def test_health_endpoint(client):
 
 
 def test_root_endpoint(client):
-    response = client.get("/")
+    response = client.get("/api/v1")
     assert response.status_code == 200
     data = response.json()
     assert "version" in data
     assert data["api_v1"] == "/api/v1"
+
+    # Verify SPA / endpoint returns 200 OK
+    res_spa = client.get("/")
+    assert res_spa.status_code == 200
