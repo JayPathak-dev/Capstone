@@ -1,0 +1,162 @@
+project_id,reporting_date,planned_progress,actual_progress,cumulative_expenditure,reported_issues,data_source
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-03-27,36.3,32.0,1860.1,,PAIMANA_PORTAL
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-04-26,40.3,37.3,2625.8,,PAIMANA_PORTAL
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-05-26,50.4,45.8,2441.9,,PAIMANA_PORTAL
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-06-25,56.0,47.6,3213.6,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-07-25,53.8,49.4,3438.8,,PAIMANA_PORTAL
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-08-24,58.0,50.8,3507.4,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+0086dff8-c3fb-4aab-9aa4-c0781c0b2325,2026-09-23,59.8,54.9,3876.7,,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-03-27,33.7,30.1,1072.1,,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-04-26,38.3,30.3,1562.9,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-05-26,41.2,33.7,1531.6,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-06-25,41.1,38.6,2089.9,,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-07-25,43.7,41.4,2431.6,,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-08-24,50.9,42.8,2570.9,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+959a7758-d0fc-48d6-8dc9-d11c3d6603bb,2026-09-23,49.0,46.4,2804.0,,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-03-27,62.1,53.4,1605.0,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-04-26,63.1,56.8,2296.7,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-05-26,64.0,61.4,2622.4,,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-06-25,67.3,60.4,2365.7,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-07-25,73.4,65.0,2791.5,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-08-24,73.7,69.9,3200.0,,PAIMANA_PORTAL
+24cb0591-2ee1-4384-b538-8d6de781c807,2026-09-23,81.3,72.9,3574.7,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-03-27,14.0,9.2,483.8,,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-04-26,24.2,18.3,802.7,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-05-26,19.3,16.0,784.1,,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-06-25,26.0,19.1,859.5,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-07-25,28.5,24.3,1103.3,,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-08-24,36.6,28.5,1223.4,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+220e4579-90a1-4111-983d-343ec2a4f551,2026-09-23,33.9,31.4,1308.0,,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-03-27,48.9,40.9,2736.2,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-04-26,44.2,38.2,2791.7,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-05-26,54.6,46.6,3433.4,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-06-25,54.3,51.7,4497.4,,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-07-25,58.3,53.5,4612.4,,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-08-24,60.4,56.5,5010.6,,PAIMANA_PORTAL
+c7a01d36-dc9c-4a02-9e51-ffd38d25a6ba,2026-09-23,62.8,59.4,5700.2,,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-03-27,68.4,63.5,5998.9,,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-04-26,67.4,64.0,8961.5,,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-05-26,72.1,69.3,8733.0,,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-06-25,83.2,76.6,11052.2,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-07-25,84.3,78.3,10584.4,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-08-24,88.1,80.8,12594.2,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+20425448-e606-4d80-bb08-62de050f381d,2026-09-23,91.1,84.9,14014.8,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-03-27,54.4,47.1,7601.4,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-04-26,50.1,47.0,8283.4,,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-05-26,59.7,52.5,9073.7,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-06-25,57.4,53.1,10543.8,,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-07-25,66.6,59.9,10829.7,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-08-24,67.2,62.6,12475.7,,PAIMANA_PORTAL
+2887bbb6-fc70-4121-820e-4a28e7cf7d59,2026-09-23,71.0,64.2,13788.0,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-03-27,36.3,31.6,34430.9,,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-04-26,43.8,36.8,30277.6,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-05-26,45.9,39.5,40218.3,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-06-25,46.9,38.8,48828.0,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-07-25,46.3,41.2,52327.6,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-08-24,53.3,45.1,54183.0,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+b03eeb10-89ff-44e8-982a-f49ba63f58b3,2026-09-23,54.6,49.2,58360.7,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-03-27,63.8,57.4,2937.7,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-04-26,67.0,60.2,2500.4,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-05-26,65.9,61.5,4105.9,,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-06-25,72.1,66.5,4290.7,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-07-25,70.9,67.8,4220.9,,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-08-24,78.3,71.8,4950.4,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+fc91fae0-976f-46bf-9abb-ff560f0ddaef,2026-09-23,84.7,76.0,5362.0,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-03-27,26.7,18.3,976.5,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-04-26,32.3,24.6,1638.3,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-05-26,35.3,31.2,1899.7,,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-06-25,32.0,29.6,1766.9,,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-07-25,43.1,34.3,2214.7,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-08-24,42.7,38.7,2404.7,,PAIMANA_PORTAL
+3ff07a0b-47cb-4e03-a2b3-fd3c96fb677f,2026-09-23,42.8,40.5,2674.4,,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-03-27,47.3,45.1,2155.2,,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-04-26,55.6,47.6,2163.5,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-05-26,56.0,53.1,2484.4,,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-06-25,54.1,50.5,3003.1,,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-07-25,58.1,55.1,3400.1,,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-08-24,66.2,60.9,4062.4,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+e2a73ff1-3885-4433-b9e6-9178599fecf9,2026-09-23,68.6,62.6,4336.3,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-03-27,34.2,26.0,5300.4,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-04-26,42.5,36.5,8008.7,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-05-26,45.2,37.7,8862.9,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-06-25,45.8,41.0,8772.6,,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-07-25,48.8,42.7,10350.6,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-08-24,55.2,46.9,11212.5,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+c2aedbdd-09ab-420f-a6e2-30f4aaf61bae,2026-09-23,55.3,50.0,11813.1,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-03-27,16.4,13.4,2310.1,,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-04-26,21.4,17.2,2173.6,,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-05-26,25.9,23.6,2863.3,,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-06-25,28.5,23.2,3378.8,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-07-25,31.0,28.8,3521.5,,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-08-24,39.5,31.0,4012.1,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+04c2a7cd-af5c-47ac-86ef-c7c53597bd94,2026-09-23,41.7,34.6,4326.6,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-03-27,38.8,36.7,3950.4,,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-04-26,46.2,40.8,6307.0,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-05-26,52.3,47.9,5929.1,,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-06-25,47.8,45.2,8021.5,,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-07-25,57.7,49.7,8789.0,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-08-24,61.5,54.2,9837.4,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+4784aa5c-fa4a-4f83-ab49-8f1a6fe7e12e,2026-09-23,66.8,57.9,10245.8,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-03-27,69.8,67.2,10420.9,,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-04-26,74.1,67.1,13102.8,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-05-26,81.3,76.0,11806.2,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-06-25,81.5,77.6,12940.8,,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-07-25,87.7,82.8,17505.2,,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-08-24,89.6,84.1,17642.5,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+357f43b8-2e5d-49c1-8ea4-600e965a6e63,2026-09-23,94.6,88.0,20086.7,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-03-27,12.3,5.0,2069.7,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-04-26,7.1,5.0,2081.4,,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-05-26,10.8,7.6,3284.9,,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-06-25,18.7,11.1,3812.8,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-07-25,15.9,12.5,4216.4,,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-08-24,21.8,16.7,4243.8,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+b42765be-aa5d-4495-9ba6-0013da19b80a,2026-09-23,27.1,20.6,4789.7,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-03-27,61.1,57.8,2813.9,,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-04-26,73.7,66.0,3110.5,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-05-26,71.9,66.4,3459.9,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-06-25,75.9,70.1,3186.7,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-07-25,79.8,72.0,3683.6,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-08-24,86.2,77.5,4308.7,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+6e0e9b75-1239-4b2b-9976-79a3f9f93e07,2026-09-23,83.5,79.4,4600.3,,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-03-27,59.3,51.2,1774.1,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-04-26,62.1,55.9,2087.9,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-05-26,66.7,59.8,2502.0,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-06-25,74.6,67.0,2592.1,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-07-25,76.5,67.5,3099.9,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-08-24,74.6,72.2,3252.7,,PAIMANA_PORTAL
+9f2d352f-e8d8-49c3-b6c3-c81f2bca5d23,2026-09-23,78.0,74.0,3694.2,,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-03-27,62.6,55.4,469.2,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-04-26,58.7,52.8,794.8,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-05-26,63.6,58.8,758.2,,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-06-25,64.2,60.7,874.7,,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-07-25,67.7,63.3,1017.9,,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-08-24,74.6,67.5,1062.5,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+83ac8e8a-2d49-428f-a4cc-b54df0cd1052,2026-09-23,79.1,70.6,1165.3,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-03-27,11.9,5.0,4771.7,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-04-26,12.5,5.0,3281.3,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-05-26,12.2,5.2,5195.4,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-06-25,13.0,5.0,5564.9,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-07-25,18.1,10.3,6402.5,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-08-24,14.4,11.4,7157.4,,PAIMANA_PORTAL
+9a288322-4e44-4444-a0da-8e3a42547d71,2026-09-23,23.1,15.0,7470.1,Unseasonal monsoon rains causing bridge pier foundation inundation,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-03-27,57.8,53.0,794.4,,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-04-26,63.7,56.5,1353.6,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-05-26,68.3,59.5,1685.8,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-06-25,68.7,61.8,1793.7,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-07-25,71.2,68.4,1842.1,,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-08-24,76.6,71.6,1962.6,,PAIMANA_PORTAL
+52e15fb1-313f-4472-a9c0-035ac6b404d5,2026-09-23,83.3,74.4,2242.0,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-03-27,72.7,64.1,3333.9,Right of Way (RoW) encumbrance between chainage 30km and 48km,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-04-26,80.3,72.3,3794.9,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-05-26,73.0,69.1,3635.0,,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-06-25,78.7,75.8,5432.3,,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-07-25,82.2,79.2,5525.9,,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-08-24,89.4,82.2,6113.2,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+cedaf638-a7be-443d-b6ed-7d6419aa8a5c,2026-09-23,88.4,85.8,6654.8,,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-03-27,13.0,5.0,1358.6,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-04-26,13.2,5.0,2138.9,Delay in forest diversion clearance for 42 hectares,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-05-26,7.3,5.0,1958.3,,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-06-25,13.9,5.0,2695.1,Contractor quarry permit pending state environmental approval,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-07-25,13.6,5.0,2931.2,High-tension utility line relocation pending state power utility approval,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-08-24,9.9,5.0,3206.7,,PAIMANA_PORTAL
+86ed54cd-9847-4ad6-beb3-304a42d833b7,2026-09-23,10.0,5.0,3566.8,,PAIMANA_PORTAL
