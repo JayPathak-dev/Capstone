@@ -11,6 +11,7 @@ from backend.app.models.milestone import Milestone
 from backend.app.models.progress_update import ProgressUpdate
 from backend.app.schemas.risk import ProjectRiskDetailResponse, RiskExplanation
 from backend.app.ml.fallback import calculate_calibrated_risk
+from backend.app.ml.inference import predict_project_risk
 from backend.app.services.alerts import scan_and_generate_alerts
 from backend.app.core.config import settings
 
@@ -198,16 +199,21 @@ def _evaluate_project_risk(db: Session, project: Project) -> Dict[str, Any]:
     if updates:
         planned_prog = updates[-1].planned_progress
 
-    return calculate_calibrated_risk(
-        approved_budget=project.approved_budget,
-        revised_budget=project.revised_budget,
-        actual_expenditure=project.actual_expenditure,
+    p_dict = {
+        "approved_budget": project.approved_budget,
+        "revised_budget": project.revised_budget,
+        "actual_expenditure": project.actual_expenditure,
+        "planned_start_date": project.planned_start_date,
+        "expected_completion_date": project.expected_completion_date,
+        "sector": project.sector,
+        "region": project.region,
+    }
+    return predict_project_risk(
+        project_dict=p_dict,
         planned_progress=planned_prog,
         actual_progress=project.current_physical_progress,
-        planned_start_date=project.planned_start_date,
-        expected_completion_date=project.expected_completion_date,
         overdue_milestones_count=overdue_count,
         max_milestone_delay_days=60 if overdue_count > 0 else 0,
-        recent_progress_delta_3m=recent_prog_delta,
-        recent_expenditure_delta_3m=recent_exp_delta,
+        recent_prog_delta_3m=recent_prog_delta,
+        recent_exp_delta_3m=recent_exp_delta,
     )

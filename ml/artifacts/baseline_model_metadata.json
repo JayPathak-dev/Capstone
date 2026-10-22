@@ -1,0 +1,47 @@
+{
+  "version": "gbdt-risk-v1.0",
+  "trained_at": "2026-10-22T20:40:07.160024",
+  "training_samples": 1200,
+  "test_samples": 300,
+  "feature_count": 16,
+  "features": {
+    "numeric": [
+      "approved_budget",
+      "has_revised_budget",
+      "duration_months",
+      "time_elapsed_ratio",
+      "planned_progress",
+      "actual_progress",
+      "physical_progress_gap",
+      "budget_utilization_ratio",
+      "financial_gap",
+      "recent_prog_delta_3m",
+      "recent_exp_delta_3m",
+      "velocity_ratio",
+      "overdue_milestones",
+      "max_milestone_delay"
+    ],
+    "categorical": [
+      "sector",
+      "region"
+    ]
+  },
+  "metrics": {
+    "cost_overrun_regressor": {
+      "baseline_mae_crores": 456.23,
+      "production_mae_crores": 190.69,
+      "production_rmse_crores": 634.31,
+      "r2_score": 0.792
+    },
+    "delay_classifier": {
+      "baseline_roc_auc": 0.999,
+      "production_roc_auc": 0.998,
+      "production_f1_score": 0.991,
+      "precision": 0.991,
+      "recall": 0.991
+    },
+    "delay_days_regressor": {
+      "mae_days": 12.6
+    }
+  }
+}
